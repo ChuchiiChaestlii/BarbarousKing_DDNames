@@ -21,6 +21,7 @@ Run the localization.exe under
 There you go you now have the viewer names appear as the characters in game.
 
 PS: This can be done while the game is running.
+
 Name for starting character Reynauld & Dismas can be changed at the bottom of the same file.
 
 Cheers
