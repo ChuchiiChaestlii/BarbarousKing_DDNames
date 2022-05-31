@@ -8,13 +8,13 @@ In order to use it in Darkest Dungeon you just need to do 3 Steps:
 
 2: Replace the file in the game folder under the following path
 
-```http
+```text
   SteamLibrary\steamapps\common\DarkestDungeon\localization\
 ```
 
 Run the localization.exe under
 
-```http
+```text
   SteamLibrary\steamapps\common\DarkestDungeon\_windows\
 ```
 
@@ -33,7 +33,7 @@ Cheers
 
 Barb has been named as the Starting Character
 
-```http
+```text
 Miroku_Nightfang
 Bleach_Dispenser
 Danthevp
